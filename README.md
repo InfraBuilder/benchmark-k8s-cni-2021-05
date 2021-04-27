@@ -1,7 +1,5 @@
 # benchmark-k8s-cni-2021-05
 
-This repository contains assets for the "Kubernetes CNI benchmark - August 2020" by infraBuilder (Twitter: @infrabuilder).
-
 The benchmark is based on `knb` from the [k8s-bench-suite](https://github.com/InfraBuilder/k8s-bench-suite).
 
 ## Benchmark protocol
